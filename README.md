@@ -7,3 +7,4 @@
   [Part I](https://www.oyama.e.u-tokyo.ac.jp/theory16/vonStengel07_1.pdf),
   [Part II](https://www.oyama.e.u-tokyo.ac.jp/theory16/vonStengel07_2.pdf),
   [Part III](https://www.oyama.e.u-tokyo.ac.jp/theory16/vonStengel07_3.pdf)
+* [Vertex Enumeration と Facet Enumeration](HVrep.pdf)
