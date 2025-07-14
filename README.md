@@ -28,7 +28,7 @@
   - Numba を使って高速化できる箇所を探す．
 * QuantEcon.py の [lemke_howson.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/game_theory/lemke_howson.py) を Julia に翻訳する．
 * [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) に
-  multidimensioinal-state stochastic growth model のテストケースを書く．
+  multidimensional-state stochastic growth model のテストケースを書く．
   - Santos (1999)
     "[Numerical solution of dynamic economic models](https://www.sciencedirect.com/science/article/abs/pii/S1574004899010083),"
     Handbook of Macroeconomics, Chapter 5 の7.3節のモデルが候補
