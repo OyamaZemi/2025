@@ -26,7 +26,7 @@
 * QuantEcon.py の [howson_lcp.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/game_theory/howson_lcp.py) を改善する．
   - [Howson 論文](https://www.jstor.org/stable/2634798)を読んでみる．
   - Numba を使って高速化できる箇所を探す．
-* QuantEcon.py の [lemke_howson.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/game_theory/lemke_howson.py) を Julia に翻訳する．
+* [x] QuantEcon.py の [lemke_howson.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/game_theory/lemke_howson.py) を Julia に翻訳する．
 * [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) に
   multidimensional-state stochastic growth model のテストケースを書く．
   - Santos (1999)
